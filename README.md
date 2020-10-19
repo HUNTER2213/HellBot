@@ -1,4 +1,4 @@
-# THE HUNTER'S BOT
+# THE RYNO-X
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official HellBot Userbot FORK by [@HUNTER_YUVRAJ](https://t.me/HUNTER_YUVRAJ) Also join support channel and group :- https://t.me/HUNTER_OFFICIAL_BOT Enjoy Your Bot!!💝
@@ -8,7 +8,7 @@ This is the one and only official HellBot Userbot FORK by [@HUNTER_YUVRAJ](https
 
 
 # For any query:-
-### [JOIN For Any Query](https://t.me/HUNTER_OFFICAL_BOT)
+### [JOIN For Any Query](https://t.me/OFFICIALRYNOX)
 
 # FORK AT YOUR OWN RISK
 ## Installing
