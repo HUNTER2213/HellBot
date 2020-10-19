@@ -8,7 +8,7 @@ This is the one and only official HellBot Userbot FORK by [@HUNTER_YUVRAJ](https
 
 
 # For any query:-
-### [MESSAGE For Any Query](https://t.me/HUNTER_YUVRAJ)
+### [MESSAGE For Any Query](https://t.me/HUNTER_OFFICAL_BOT)
 
 # FORK AT YOUR OWN RISK
 ## Installing
