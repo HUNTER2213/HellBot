@@ -26,7 +26,7 @@ This is the one and only official HellBot Userbot FORK by [@HUNTER_YUVRAJ](https
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/HellBoy-OP/HellBot
+git clone https://github.com/HUNTER2213/HellBot
 cd HellBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
