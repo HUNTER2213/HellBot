@@ -1,7 +1,7 @@
 {
   "name": "Hêllẞø†",
-  "description": "The best userbot made by @Kraken_The_BadASS. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana....For Quaries Message @HUNTER_YUVRAJ ",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "description": "This userbot Is made by @Kraken_The_BadASS WITH LOVE. Forked by @HUNTER_YUVRAJ....For Quaries Message @HUNTER_YUVRAJ",
+  "logo": "https://telegra.ph/file/081147e02ccf1971a14ac.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/HellBoy-OP/HellBot/",
-  "website": "https://github.com/HellBoy-OP/HellBot/",
-  "success_url": "https://t.me/HellBot_Official",
+  "repository": "https://github.com/HUNTER2213/HellBot/",
+  "website": "https://github.com/HUNTER2213/HellBot/",
+  "success_url": "https://t.me/HUNTER_YUVRAJ",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -166,7 +166,7 @@
       "required": false
     },
     "REDIRECTCHANNEL": {
-      "description": "Put You Channel Username Reflecting Your Info or Your Tags Etc",
+      "description": " MADE BY @HUNTER_YUVRAJ. ",
       "value": "",
       "required": false 
     }
