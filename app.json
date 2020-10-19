@@ -166,7 +166,7 @@
       "required": false
     },
     "REDIRECTCHANNEL": {
-      "description": " MADE BY @HUNTER_YUVRAJ. ",
+      "description": " Put Your Channel Username Reflecting Your Info or Your Tags Etc. ",
       "value": "",
       "required": false 
     }
