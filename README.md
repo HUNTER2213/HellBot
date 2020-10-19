@@ -1,7 +1,7 @@
 # THE HUNTER'S BOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official HellBot Userbot FORK by [@HUNTER_YUVRAJ](https://t.me/HUNTER_YUVRAJ) Also join support channel and group :- https://t.me/CRACKWAR Enjoy Your Bot!!💝
+This is the one and only official HellBot Userbot FORK by [@HUNTER_YUVRAJ](https://t.me/HUNTER_YUVRAJ) Also join support channel and group :- https://t.me/HUNTER_OFFICIAL_BOT Enjoy Your Bot!!💝
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
